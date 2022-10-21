@@ -1,0 +1,78 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/7. AUTUMN 2022/EE671/Assignments/Assignment 4/simulation/modelsim
+vDUT
+!s110 1666337465
+!i10b 1
+!s100 ^HPMEh7[ORK=6n6R;[>7[3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+InIRF2e]`0N7`BF<2CFnPN0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1666337227
+8Brent_Kung_Adder.vo
+FBrent_Kung_Adder.vo
+!i122 0
+L0 32 2505
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1666337465.000000
+!s107 Brent_Kung_Adder.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|Brent_Kung_Adder.vo|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+.
+tCvgOpt 0
+n@d@u@t
+Etestbench
+Z1 w1666334906
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+!i122 1
+R0
+Z4 8E:/7. AUTUMN 2022/EE671/Assignments/Assignment 4/testbench.vhdl
+Z5 FE:/7. AUTUMN 2022/EE671/Assignments/Assignment 4/testbench.vhdl
+l0
+L7 1
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+Z6 OV;C;2020.1;71
+31
+Z7 !s110 1666337466
+!i10b 1
+Z8 !s108 1666337466.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|E:/7. AUTUMN 2022/EE671/Assignments/Assignment 4/testbench.vhdl|
+!s107 E:/7. AUTUMN 2022/EE671/Assignments/Assignment 4/testbench.vhdl|
+!i113 1
+Z10 o-93 -work work
+Z11 tExplicit 1 CvgOpt 0
+Abehave
+R2
+R3
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+!i122 1
+l69
+L9 132
+VO=jdTF@Vg7AXWd3[;n@m@0
+!s100 iDARmGUE]c^:2O9n4>>k52
+R6
+31
+R7
+!i10b 1
+R8
+R9
+Z12 !s107 E:/7. AUTUMN 2022/EE671/Assignments/Assignment 4/testbench.vhdl|
+!i113 1
+R10
+R11
